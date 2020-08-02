@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f64b087d-8d18-48c4-a3ff-d04a104c7179" name="Default Changelist" comment="" />
+    <list default="true" id="f64b087d-8d18-48c4-a3ff-d04a104c7179" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-45.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-58.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/0b/0b4cdddedb9ec4348ddae3a939d998aa35cca255e2fb609e75d6342fb187f4f0.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/0e/0e1cc5bf724045f074ea7d5f6dd6a340c6ccf24a21d81842fe796ded273d66cb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/0e/0ea78bb0b3d14bcc48f7958e6cf4db6a748fc5cbeacf0039f35943442d488451.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/19/199638c814d662aa39e5f61db0e4c76041555e57a5cb462c3e43756dc42d3fa8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/1c/1c69911a50d5bbc1d7052ebc1d09a1701b0f7f25ed07850f7f358cb665f29d02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/20/20a8c499e4bdcfd98d99e06d3843be5197b6a921bed857901030f444c96dc18c.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/2e/2e39b94044f9a2d57b692a7233d056cd10a5db2efff5b39a16a3758fae9ed0f5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/46/4626cd07c8284d6c4af526be7087930301e823d1ddde32f3fd5363af3197a342.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/47/4744bd7fb83a9c5d5dd7b1de27baf3a59e52a81cdc952443c6290877b60479a8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/5f/5f19750a3f8200faf71d841418d2576bb86dc9233ab6dddcd0f33b9240cdb481.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/61/61477635d1b30e85ff46d234277eef8f452c021d66b5708b5bcf2734d9a4a6a5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/8e/8eaecaa2a97b2276366be24107e4a4360ed5fb39907573d5e6b3c8622dcb6d65.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/be/bee3f65d623ed79a7f3abaf0295bc148031785505039d3ebaa985d669057b367.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/c0/c0542bd7d48c145080db28ac53fccb742759d9c085b1dfbb589de56972d15ba7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/ec/ec770ad457e335fa1cf4b91aaf7c3158471b003a439292d28969377dbfd32076.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/ee/eeaf1cc96a190c152278ba509cc244cbbd5c98fc0b5d01e3f36042a9b62b573e.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/f7/f71d570f0e1db2697fd0c8e5b725e8f916ef0e198ef0aa5ea54c2232b1a776bb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/hello.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
