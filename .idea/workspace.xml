@@ -4,8 +4,14 @@
     <list default="true" id="f64b087d-8d18-48c4-a3ff-d04a104c7179" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-126.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-150.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-173.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-205.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-303.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-342.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-388.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-45.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-58.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/0b/0b4cdddedb9ec4348ddae3a939d998aa35cca255e2fb609e75d6342fb187f4f0.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/0e/0e1cc5bf724045f074ea7d5f6dd6a340c6ccf24a21d81842fe796ded273d66cb.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/wp-content/uploads/grid-gallery/cache/twig/0e/0ea78bb0b3d14bcc48f7958e6cf4db6a748fc5cbeacf0039f35943442d488451.php" afterDir="false" />
@@ -48,7 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wp-ob" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -62,10 +68,17 @@
       <updated>1594081616936</updated>
       <workItem from="1594081618283" duration="4000" />
       <workItem from="1594323570516" duration="1904000" />
+      <workItem from="1594764793377" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1594764819625">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.-128.1920.1040@0.0.1920.1040" timestamp="1594764819624" />
   </component>
 </project>
